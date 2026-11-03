@@ -1,0 +1,4 @@
+name:build dockerfile
+run:build docker -t mydockerapp
+name:run dockerfile
+run: run docker mydockerapp

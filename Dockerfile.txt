@@ -1,4 +1,0 @@
-version python:3.12;
-WORKDIR \app
-cd app.py
-CMD ("PYTHON", app.py)
